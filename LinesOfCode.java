@@ -35,7 +35,7 @@ public class LinesOfCode {
             start(yourFolder);
             log("==========LINES==========");
             printMap(MAP);
-            log("\nTOTAL: " + i);
+            log("\nTOTAL LINES: " + i);
             log("=========================");
             System.out.println(string);
             new Display(string);
